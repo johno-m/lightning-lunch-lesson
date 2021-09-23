@@ -1,0 +1,122 @@
+[
+  {
+    "id": "7797628",
+    "type": "products",
+    "attributes": {
+      "description": "Egg mayonnaise and cress on malted bread",
+      "name": "Sainsbury's Egg & Cress Sandwich",
+      "partNumber": "7797628",
+      "brand": "Sainsbury's",
+      "price": {
+        "now": 1.25,
+        "mealDeal": true,
+        "flashText": "Great New Price"
+      }
+    }
+  },
+  {
+    "id": "1320121",
+    "type": "products",
+    "attributes": {
+      "description": "Mayonnaise, medium mature Cheddar cheese and red Leicester cheese with red onion on oatmeal bread",
+      "name": "Sainsbury's On the Go Cheddar, Red Leicester & Red Onion Sandwich",
+      "partNumber": "1320121",
+      "brand": "Sainsbury's",
+      "price": {
+        "now": 1.25,
+        "mealDeal": true,
+        "flashText": "Great New Price"
+      }
+    }
+  },
+  {
+    "id": "7798851",
+    "type": "products",
+    "attributes": {
+      "description": "Delicious chicken mayo sandwich with mayonnaise on wholemeal bread.",
+      "name": "Sainsbury's Chicken Salad Sandwich",
+      "partNumber": "7798851",
+      "brand": "Taste The Difference",
+      "price": {
+        "now": 2.25,
+        "mealDeal": true,
+        "flashText": "Great New Price"
+      }
+    }
+  },
+  {
+    "id": "7624516",
+    "type": "products",
+    "attributes": {
+      "description": "Seasoned British pork sausagemeat wrapped in puff pastry.",
+      "name": "Sainsbury's Sausage Rolls x6 360g",
+      "partNumber": "7624516",
+      "brand": "Sainsbury's",
+      "price": {
+        "now": 1.8,
+        "mealDeal": false,
+        "flashText": "Great New Price"
+      }
+    }
+  },
+  {
+    "id": "7084467",
+    "type": "products",
+    "attributes": {
+      "description": "Meat free savoury flavour filling, made with mycoprotein and onion, wrapped in puff pastry",
+      "name": "Quorn Vegetarian Sausage Rolls x3 210g",
+      "partNumber": "7084467",
+      "brand": "Quorn",
+      "price": {
+        "now": 2.6,
+        "mealDeal": false,
+        "flashText": "Great New Price"
+      }
+    }
+  },
+  {
+    "id": "6420089",
+    "type": "products",
+    "attributes": {
+      "description": "Sparkling Low Calorie Soft Drink with Plant Extracts with Sweeteners.",
+      "name": "Coca-Cola Zero Sugar 500ml",
+      "partNumber": "6420089",
+      "brand": "Coca Cola",
+      "price": {
+        "now": 1.4,
+        "mealDeal": true,
+        "flashText": "Great New Price"
+      }
+    }
+  },
+  {
+    "id": "7992356",
+    "type": "products",
+    "attributes": {
+      "description": "Pineapple, melon, mango and kiwi fruit",
+      "name": "Sainsbury's On the Go Tropical Fruit Salad 150g",
+      "partNumber": "7992356",
+      "brand": "Sainsbury's",
+      "price": {
+        "now": 1,
+        "mealDeal": true,
+        "flashText": "Great New Price"
+      }
+    }
+  },
+  {
+    "id": "4153955",
+    "type": "products",
+    "attributes": {
+      "description": "Thai Sweet Chilli Flavour Potato Crisps",
+      "name": "Sensations Thai Sweet Chilli Crisps 40g",
+      "partNumber": "4153955",
+      "brand": "Walkers",
+      "price": {
+        "now": 0.9,
+        "mealDeal": true,
+        "flashText": "Great New Price"
+      }
+    }
+  }
+]
