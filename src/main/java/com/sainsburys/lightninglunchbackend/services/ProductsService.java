@@ -16,6 +16,7 @@ public class ProductsService {
 
     private List<Product> products = new ArrayList<>();
 
+    // Post Construct calls the following method after init
     @PostConstruct
     public void loadData(){
         ObjectMapper mapper = new ObjectMapper();
@@ -30,26 +31,16 @@ public class ProductsService {
         }
     }
 
+    /** Return a single product - (String productId) */
     public Product getProduct(String productId) throws ProductNotFoundException {
-
         return products.stream()
                 .filter( product -> product.getId().equals(productId) )
                 .findFirst()
                 .orElseThrow(() -> new ProductNotFoundException());
 
-//        for (Product product : products) {
-//            if (product.getId().equals(productId)) {
-//                return product;
-//            }
-//        }
-//        for(int i = 0; i < products.size(); i++){
-//            if(products.get(i).getId().equals(productId)){
-//                return products.get(i);
-//            }
-//        }
-//        throw new ProductNotFoundException();
     }
 
+    /** Return all products (no arg) */
     public List<Product> getProducts() {
         return products;
     }
